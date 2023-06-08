@@ -172,6 +172,7 @@ body {
 }
 
 .product__content {
+    color: pink;
     display: grid;
     gap: var(--content-spacing);
     padding: var(--content-padding);
